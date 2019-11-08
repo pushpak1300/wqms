@@ -38,6 +38,7 @@ char ssid[] = "Your ssid here";
 char pass[] = "your password leave blank for open network";
 ```
 -Compile and Upload code on Arduino Board.
+
 -Add Vitual pin input from arduino to blynk[documentation](http://help.blynk.cc/en/articles/512056-how-to-display-any-sensor-data-in-blynk-app)
 
 ------------------------------------------
@@ -53,6 +54,6 @@ This project is released under The MIT License (MIT).
 
 [Full Blynk Documentation](http://docs.blynk.cc/#blynk-firmware) - a complete guide on Blynk features  
 [Community (Forum)](http://community.blynk.cc) - join a 500,000 Blynk community to ask questions and share ideas  
-[Ph sensor](https://www.electroniclinic.com/ph-sensor-arduino-how-do-ph-sensors-work-application-of-ph-meter-ph-sensor-calibration/) - helpful articles on ph sensor calibration 
-[Code Examples Browser](http://examples.blynk.cc) - browse examples to explore Blynk possibilities 
-[Arduino Documenattion](https://www.arduino.cc/en/main/docs) -Arduino Documenattion
+[Ph sensor](https://www.electroniclinic.com/ph-sensor-arduino-how-do-ph-sensors-work-application-of-ph-meter-ph-sensor-calibration/) - helpful articles on ph sensor calibration <br>
+[Code Examples Browser](http://examples.blynk.cc) - browse examples to explore Blynk possibilities <br>
+[Arduino Documenattion](https://www.arduino.cc/en/main/docs) -Arduino Documenattion<br>
