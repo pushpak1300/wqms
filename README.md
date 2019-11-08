@@ -38,8 +38,8 @@ char ssid[] = "Your ssid here";
 char pass[] = "your password leave blank for open network";
 ```
 -Compile and Upload code on Arduino Board.
- 
--Add Vitual pin input from arduino to blynk.[documentation](http://help.blynk.cc/en/articles/512056-how-to-display-any-sensor-data-in-blynk-app)
+-Add Vitual pin input from arduino to blynk[documentation](http://help.blynk.cc/en/articles/512056-how-to-display-any-sensor-data-in-blynk-app)
+
 ------------------------------------------
 ## Contributing
 We accept contributions for stability bugfixes, new hardware support, or any other improvements. [Here](https://github.com/pushpak1300/wqms/issues)<br>
@@ -48,6 +48,7 @@ Feel free to open pull request or issues.
 ### License
 This project is released under The MIT License (MIT).
 
+------------------------------------------
 ## Documentation and other helpful links
 
 [Full Blynk Documentation](http://docs.blynk.cc/#blynk-firmware) - a complete guide on Blynk features  
