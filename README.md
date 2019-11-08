@@ -23,15 +23,21 @@
 ### Installation
 
 -Install Required Libraries and import libraries in adruino IDE.<br>
-  **Blynk [Arduino Library](https://github.com/blynkkk/blynk-library/releases/latest)**
-  **One Wire[Arduino Library](https://www.arduinolibraries.info/libraries/one-wire)**
-  **Dallas Tempretur[Arduino Library](https://github.com/milesburton/Arduino-Temperature-Control-Library/blob/master/DallasTemperature.h)**
+  **Blynk [Arduino Library](https://github.com/blynkkk/blynk-library/releases/latest)**<br>
+  **One Wire[Arduino Library](https://www.arduinolibraries.info/libraries/one-wire)**<br>
+  **Dallas Tempretur[Arduino Library](https://github.com/milesburton/Arduino-Temperature-Control-Library/blob/master/DallasTemperature.h)**<br>
   
--Edit and Add Your Auth token from blynk. [wqms.ino](https://github.com/pushpak1300/wqms/blob/master/src/wqms.ino)
+-Edit and Add Your Auth token from blynk[here](https://github.com/pushpak1300/wqms/blob/master/src/wqms.ino)
 
--Add your wifi ssid and password [wqms.ino](https://github.com/pushpak1300/wqms/blob/master/src/wqms.ino)
-
--Compile and upload code on arduino
+```c
+char auth[] = Your Auth Token;
+```
+-Add your wifi ssid and password[here](https://github.com/pushpak1300/wqms/blob/master/src/wqms.ino)
+```c
+char ssid[] = "Your ssid here";
+char pass[] = "your password leave blank for open network";
+```
+-Compile and Upload code on Arduino Board.
  
 -Add Vitual pin input from arduino to blynk.[documentation](http://help.blynk.cc/en/articles/512056-how-to-display-any-sensor-data-in-blynk-app)
 ------------------------------------------
