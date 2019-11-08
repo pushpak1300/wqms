@@ -7,7 +7,7 @@ defining input wires
 #define ONE_WIRE_BUS 8
 #define trigpin 9 
 #define echopin 10 
-#define SensorPin 0           the pH meter Analog output is connected with the Arduino’s Analog
+#define SensorPin 0           the pH meter Analog output is connected with the Arduinoâ€™s Analog
 unsigned long int avgValue;  Store the average value of the sensor feedback
 float b;
 
